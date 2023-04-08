@@ -107,7 +107,7 @@ header-includes:
 
 Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. @fig:001).
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](/home/aalushin/work/study/study_2022-2023_os-intro/labs/lab06/report/image/Снимок экрана от 2023-02-25 23-46-50.png){#fig:001 width=70%}
 
 # Выводы
 
